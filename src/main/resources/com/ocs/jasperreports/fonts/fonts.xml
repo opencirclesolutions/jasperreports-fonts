@@ -12,6 +12,8 @@
         <exportFonts>
             <export key="net.sf.jasperreports.html">'Open Sans', Arial, Helvetica, sans-serif</export>
             <export key="net.sf.jasperreports.xhtml">'Open Sans', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.docx">Arial</export>
+            <export key="net.sf.jasperreports.pptx">Arial</export>
         </exportFonts>
     </fontFamily>
 
@@ -23,6 +25,8 @@
         <exportFonts>
             <export key="net.sf.jasperreports.html">'Open Sans', Arial, Helvetica, sans-serif</export>
             <export key="net.sf.jasperreports.xhtml">'Open Sans', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.docx">Arial</export>
+            <export key="net.sf.jasperreports.pptx">Arial</export>
         </exportFonts>
     </fontFamily>
 
