@@ -15,9 +15,8 @@
     </organization>
 
     <scm>
-        <connection>scm:git:https://github.com/opencirclesolutions/jasperreports-fonts.git</connection>
-        <developerConnection>scm:git:https://github.com/opencirclesolutions/jasperreports-fonts.git
-        </developerConnection>
+        <connection>scm:git:git://github.com/opencirclesolutions/jasperreports-fonts.git</connection>
+        <developerConnection>scm:git:git@github.com:opencirclesolutions/jasperreports-fonts.git</developerConnection>
         <url>https://github.com/opencirclesolutions/jasperreports-fonts</url>
         <tag>HEAD</tag>
     </scm>
