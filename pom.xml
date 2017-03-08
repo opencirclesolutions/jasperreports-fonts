@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ocs</groupId>
     <artifactId>jasperreports-fonts</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>JasperReports Fonts Extension</name>
     <url>https://github.com/opencirclesolutions/jasperreports-fonts</url>
@@ -17,7 +17,7 @@
         <connection>scm:git:git://github.com/opencirclesolutions/jasperreports-fonts.git</connection>
         <developerConnection>scm:git:git@github.com:opencirclesolutions/jasperreports-fonts.git</developerConnection>
         <url>https://github.com/opencirclesolutions/jasperreports-fonts</url>
-        <tag>jasperreports-fonts-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
