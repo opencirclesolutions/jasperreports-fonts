@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fontFamilies>
+
+    <fontFamily name="Open Sans">
+        <normal>com/ocs/jasperreports/fonts/opensans/OpenSans-Regular.ttf</normal>
+        <bold>com/ocs/jasperreports/fonts/opensans/OpenSans-Bold.ttf</bold>
+        <italic>com/ocs/jasperreports/fonts/opensans/OpenSans-Italic.ttf</italic>
+        <boldItalic>com/ocs/jasperreports/fonts/opensans/OpenSans-BoldItalic.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'Open Sans', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'Open Sans', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+
+    <!--
+        Mapping Java logical fonts, for the sake of HTML export only.
+    -->
+
+    <fontFamily name="SansSerif">
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">'Open Sans', Arial, Helvetica, sans-serif</export>
+            <export key="net.sf.jasperreports.xhtml">'Open Sans', Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+
+</fontFamilies>
