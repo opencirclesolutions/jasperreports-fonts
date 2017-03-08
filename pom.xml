@@ -1,9 +1,8 @@
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ocs</groupId>
     <artifactId>jasperreports-fonts</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>JasperReports Fonts Extension</name>
     <url>https://github.com/opencirclesolutions/jasperreports-fonts</url>
@@ -18,7 +17,7 @@
         <connection>scm:git:git://github.com/opencirclesolutions/jasperreports-fonts.git</connection>
         <developerConnection>scm:git:git@github.com:opencirclesolutions/jasperreports-fonts.git</developerConnection>
         <url>https://github.com/opencirclesolutions/jasperreports-fonts</url>
-        <tag>HEAD</tag>
+        <tag>jasperreports-fonts-1.0.0</tag>
     </scm>
 
     <build>
